@@ -6,6 +6,6 @@ Neural Net : LeNet for MNIST Digits
 
 Tools used : OpenCv, Tensorflow, Tensorflow Js
 
-![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/86548591/214108466-d146aa3d-1afc-4c35-b812-4bf478a6ead9.gif)
+https://user-images.githubusercontent.com/86548591/214109157-a43ac09b-0d08-4a59-84e4-0d6330b06287.mp4
 
 ### [DEMO](https://shivang17d.github.io/Math4Kids/)
